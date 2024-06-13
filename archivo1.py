@@ -4,4 +4,8 @@ print("cambios nuevos v2")
 print("viva amlo")
 print("cambiando xd")
 print('.......')
+<<<<<<< HEAD
 print('.......xd')
+=======
+print('.......quiensabeqpedo')
+>>>>>>> main
